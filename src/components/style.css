@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+    padding: 20px 140px;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.nav-links a{
+    margin: 0 20px;
+    font-weight: bold;
+}
+.nav-links button{
+    padding: 12px 26px;
+    border: 0;
+    background-color: rgb(45, 98, 45);
+    color: white;
+    border-radius: 8px;
+    margin-left: 50px;
+}
